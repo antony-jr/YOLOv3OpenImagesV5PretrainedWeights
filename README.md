@@ -6,6 +6,12 @@ the releases instead of git. This makes it easier for a lot of use cases.
 
 Please see the releases for all the required data. This repo will not change in the future, you can use the static links from the releases to download the weights on demand in your applicatoin.
 
+[yolo.cfg](https://github.com/antony-jr/YOLOv3OpenImagesV5PretrainedWeights/releases/download/yolov3spp/yolo.cfg)
+
+[yolo.names](https://github.com/antony-jr/YOLOv3OpenImagesV5PretrainedWeights/releases/download/yolov3spp/yolo.names)
+
+[yolo.weights](https://github.com/antony-jr/YOLOv3OpenImagesV5PretrainedWeights/releases/download/yolov3spp/yolo.weights)
+
 # Original Repository
 
 https://github.com/radekosmulski/yolo_open_images
